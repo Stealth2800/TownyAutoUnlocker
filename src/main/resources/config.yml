@@ -1,0 +1,33 @@
+messages:
+  plot_unclaimed: '&cYour locks on a plot you previously owned have been unlocked.'
+  town_unclaimed: '&cYour locks in a town you previously lived in have been unlocked.'
+unclaim blocks:
+  - chest
+  - trapped_chest
+  - dispenser
+  - dropper
+  - furnace
+  - sign
+  - wooden_door
+  - iron_door
+  - spruce_door
+  - birch_door
+  - jungle_door
+  - acacia_door
+  - dark_oak_door
+  - fence_gate
+  - spruce_fence_gate
+  - birch_fence_gate
+  - jungle_fence_gate
+  - dark_oak_fence_gate
+  - acacia_fence_gate
+  - fence
+  - spruce_fence
+  - birch_fence
+  - jungle_fence
+  - dark_oak_fence
+  - acacia_fence
+  - trapdoor
+  - iron_trapdoor
+  - standing_banner
+  - wall_banner

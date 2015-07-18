@@ -1,0 +1,16 @@
+name: ${project.name}
+version: ${project.version}
+description: '${project.description}'
+depend: [LWC, Towny]
+softdepend: []
+authors: [${project.authors}]
+website: ${project.url}
+main: ${project.mainClass}
+commands:
+  townyautounlock:
+    description: 'Base plugin command'
+    aliases: []
+permissions:
+  townyautounlock.reload:
+    description: 'Ability to reload the plugin.'
+    default: OP
