@@ -6,7 +6,7 @@
 
     <groupId>me.st28</groupId>
     <artifactId>townyautounlocker</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>TownyAutoUnlocker</name>
     <description>Autounlocks LWC locked blocks when Towny plots are unclaimed</description>
     <url>http://stealthyone.com/</url>
